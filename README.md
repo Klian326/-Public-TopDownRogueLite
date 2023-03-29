@@ -1,4 +1,7 @@
 # TopDownRogueLite
+`Objective`: The introduction of a clean and optimized new template for Unreal. The idea is to get a fully functional tech demo which can be further developed into many different kind of games, sharing the same core mechanics. Compatibility with other Marketplace assets is a focal point.
+
+`Target audience`: Small/Medium team, even talented solo developers.
 
 # Forum discussion
 
