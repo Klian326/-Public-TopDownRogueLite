@@ -3,12 +3,13 @@
 
 `Target audience`: Small/Medium team, even talented solo developers.
 
-# Forum discussion
+# Support and discussion
+Forum - https://forums.unrealengine.com/t/wip-top-down-rogue-lite-plugin/787639
 
-![image](https://user-images.githubusercontent.com/48155922/227110262-94489314-6875-46b9-a678-62396116603b.png)
+Discord Server - https://discord.gg/DQRFRJMvQJ
 
-[Forum discussion](https://forums.unrealengine.com/t/wip-top-down-rogue-lite-plugin/787639)
+Wiki - https://github.com/Klian326/-Public-TopDownRogueLite/wiki
 
-![image](https://user-images.githubusercontent.com/48155922/227111085-54ae889e-58e1-4fad-8ad6-401890a9ae0c.png)
+Marketplace - https://www.unrealengine.com/marketplace/en-US/product/e1d3c9a04b26492682fe19e16276292b
 
-[Discord Server](https://discord.gg/DQRFRJMvQJ)
+Discord ID: Klian#6283
