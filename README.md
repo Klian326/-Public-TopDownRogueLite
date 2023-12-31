@@ -12,4 +12,4 @@ Wiki - https://github.com/Klian326/-Public-TopDownRogueLite/wiki
 
 Marketplace - https://www.unrealengine.com/marketplace/en-US/product/e1d3c9a04b26492682fe19e16276292b
 
-Discord ID: Klian#6283
+Discord ID: Klian
