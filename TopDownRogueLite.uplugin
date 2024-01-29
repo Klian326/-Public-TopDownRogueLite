@@ -1,0 +1,58 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.3.0",
+	"FriendlyName": "TopDownRogueLite",
+	"Description": "C++ Top Down (Shooter) template focusing on accommodate roguelike gameplay styles, but not only!",
+	"Category": "Framework",
+	"CreatedBy": "Klian",
+	"CreatedByURL": "https://dev.epicgames.com/community/profile/doaEp/Klian",
+	"DocsURL": "https://github.com/Klian326/-Public-TopDownRogueLite/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e1d3c9a04b26492682fe19e16276292b",
+	"SupportURL": "https://dev.epicgames.com/community/profile/doaEp/Klian",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "TopDownRogueLite",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		},
+		{
+			"Name": "TopDownRogueLiteEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		},
+		{
+			"Name": "GameplayAbilities",
+			"Enabled": true
+		}
+	]
+}
