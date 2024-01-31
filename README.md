@@ -3,6 +3,8 @@
 
 `Target audience`: Small/Medium team, even talented solo developers.
 
+[![TDRL_QuickSetup030](https://github.com/Klian326/-Public-TopDownRogueLite/assets/48155922/a7d4b982-3d81-4f6c-b2a5-9e4495b36978)](https://youtu.be/FRaqdC7YKNo?si=Dn2QFdaOXBNaPFjq)
+
 # Support and discussion
 Forum - https://forums.unrealengine.com/t/wip-top-down-rogue-lite-plugin/787639
 
